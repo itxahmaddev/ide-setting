@@ -1,0 +1,224 @@
+[
+    {
+        "Name": "Auto Close Tag",
+        "WORK": "Automatically adds HTML/XML closing tags.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag",
+        "id": "formulahendry.auto-close-tag"
+    },
+    {
+        "Name": "Auto Rename Tag",
+        "WORK": "Automatically renames paired HTML/XML tags.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag",
+        "id": "formulahendry.auto-rename-tag"
+    },
+    {
+        "Name": "Better Comments",
+        "WORK": "Makes code comments easier to categorize and read.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments",
+        "id": "aaron-bond.better-comments"
+    },
+    {
+        "Name": "Cline",
+        "WORK": "AI coding agent that can inspect, edit, and work with your project.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev",
+        "id": "saoudrizwan.claude-dev"
+    },
+    {
+        "Name": "CodeSnap",
+        "WORK": "Creates attractive screenshots of source code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap",
+        "id": "adpyke.codesnap"
+    },
+    {
+        "Name": "CSS Peek",
+        "WORK": "Peek and navigate from HTML class/id names to their CSS definitions.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
+        "id": "pranaygp.vscode-css-peek"
+    },
+    {
+        "Name": "DevTool+",
+        "WORK": "Provides developer utility tools such as encoding, JSON, UUID, hashing, and data conversion tools.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=Fuzionix.devtool-plus",
+        "id": "Fuzionix.devtool-plus"
+    },
+    {
+        "Name": "Error Lens",
+        "WORK": "Shows errors, warnings, and diagnostics directly inline in the editor.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+        "id": "usernamehw.errorlens"
+    },
+    {
+        "Name": "ES7+ React/Redux/React-Native snippets",
+        "WORK": "Provides JavaScript, React, Redux, and React Native snippets.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets",
+        "id": "dsznajder.es7-react-js-snippets"
+    },
+    {
+        "Name": "ESLint",
+        "WORK": "Integrates ESLint into VS Code for JavaScript/TypeScript linting and fixes.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+        "id": "dbaeumer.vscode-eslint"
+    },
+    {
+        "Name": "FileTree Pro",
+        "WORK": "Generates project file trees in Markdown, JSON, SVG, or ASCII formats.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=0xTanzim.filetree-pro",
+        "id": "0xTanzim.filetree-pro"
+    },
+    {
+        "Name": "Git History",
+        "WORK": "View and search Git history, file history, line history, branches, commits, and diffs.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory",
+        "id": "donjayamanne.githistory"
+    },
+    {
+        "Name": "GitLens",
+        "WORK": "Adds advanced Git history, blame, code authorship, and repository navigation features.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens",
+        "id": "eamodio.gitlens"
+    },
+    {
+        "Name": "HTML to CSS autocompletion",
+        "WORK": "Provides CSS/SCSS/Less/Sass/Stylus class and ID completion based on markup.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion",
+        "id": "solnurkarim.html-to-css-autocompletion"
+    },
+    {
+        "Name": "Import Cost",
+        "WORK": "Shows the estimated size of imported packages directly in the editor.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost",
+        "id": "wix.vscode-import-cost"
+    },
+    {
+        "Name": "Live Preview",
+        "WORK": "Hosts a local web server and previews webpages, including an embedded preview.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server",
+        "id": "ms-vscode.live-server"
+    },
+    {
+        "Name": "Live Server",
+        "WORK": "Launches a local development server with live reload.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
+        "id": "ritwickdey.LiveServer"
+    },
+    {
+        "Name": "Live Share",
+        "WORK": "Enables real-time collaborative coding and project sharing.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare",
+        "id": "ms-vsliveshare.vsliveshare"
+    },
+    {
+        "Name": "Mizu Icons",
+        "WORK": "Provides file and folder icons for VS Code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=cdfzo.mizu",
+        "id": "cdfzo.mizu"
+    },
+    {
+        "Name": "Next.Nav",
+        "WORK": "Visualizes and manages Next.js App Router routes and project structure.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=NextNav.NextNav",
+        "id": "NextNav.NextNav"
+    },
+    {
+        "Name": "Path Intellisense",
+        "WORK": "Provides autocomplete suggestions for file and folder paths.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense",
+        "id": "christian-kohler.path-intellisense"
+    },
+    {
+        "Name": "Simple React Snippets",
+        "WORK": "Provides lightweight React code snippets.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets",
+        "id": "burkeholland.simple-react-snippets"
+    },
+    {
+        "Name": "SLab Theme",
+        "WORK": "Provides a collection of light, dark, neon, hacker, and eye-protective VS Code themes.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=HasibX2000.slab-theme",
+        "id": "HasibX2000.slab-theme"
+    },
+    {
+        "Name": "Atom Material Theme",
+        "WORK": "Provides an Atom Material-inspired color theme for VS Code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.atom-material-theme",
+        "id": "tobiasalthoff.atom-material-theme"
+    },
+    {
+        "Name": "Cobalt2 Theme Official",
+        "WORK": "Provides the official Cobalt2 color theme by Wes Bos.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2",
+        "id": "wesbos.theme-cobalt2"
+    },
+    {
+        "Name": "Colorize",
+        "WORK": "Displays CSS color values using their actual colors in the editor.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize",
+        "id": "kamikillerto.vscode-colorize"
+    },
+    {
+        "Name": "GitHub Theme",
+        "WORK": "Provides GitHub-style light and dark VS Code themes.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme",
+        "id": "GitHub.github-vscode-theme"
+    },
+    {
+        "Name": "Image Preview",
+        "WORK": "Shows image previews in the editor gutter and on hover.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview",
+        "id": "kisstkondoros.vscode-gutter-preview"
+    },
+    {
+        "Name": "Palenight Theme",
+        "WORK": "Provides an elegant material-inspired Palenight color theme.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme",
+        "id": "whizkydee.material-palenight-theme"
+    },
+    {
+        "Name": "Remote Explorer",
+        "WORK": "Provides the Remote Explorer view for remote machines available through VS Code remote extensions.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer",
+        "id": "ms-vscode.remote-explorer"
+    },
+    {
+        "Name": "vscode-icons",
+        "WORK": "Provides file and folder icons for VS Code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons",
+        "id": "vscode-icons-team.vscode-icons"
+    },
+    {
+        "Name": "GitHub Copilot",
+        "WORK": "AI coding assistance, chat, code completion, and agent features in VS Code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat",
+        "id": "GitHub.copilot-chat"
+    },
+    {
+        "Name": "Copy4AI",
+        "WORK": "Copies code with resolved dependencies in an AI-friendly Markdown format and can apply AI-generated changes.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=copy4ai.copy4ai",
+        "id": "copy4ai.copy4ai"
+    },
+    {
+        "Name": "Claude Code for VS Code",
+        "WORK": "AI coding agent that can inspect codebases, edit files, run terminal commands, and use MCP.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code",
+        "id": "anthropic.claude-code"
+    },
+    {
+        "Name": "Continue",
+        "WORK": "Open-source AI coding assistant supporting multiple models and code context.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=Continue.continue",
+        "id": "Continue.continue"
+    },
+    {
+        "Name": "Kilo Code",
+        "WORK": "Open-source AI coding agent for planning, building, fixing, and refactoring code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=kilocode.kilo-code",
+        "id": "kilocode.kilo-code"
+    },
+    {
+        "Name": "JSON Crack",
+        "WORK": "Visualize JSON data as an interactive diagram directly inside VS Code.",
+        "marketpalcelink": "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode",
+        "id": "AykutSarac.jsoncrack-vscode"
+    }
+]

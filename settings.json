@@ -1,0 +1,168 @@
+{
+    // ======= FONT & EDITOR =======
+    "editor.fontFamily": "'Fira Code', 'Cascadia Code', Consolas, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 28,
+    "editor.fontWeight": "500",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 2,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "selection",
+    "editor.guides.bracketPairs": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.linkedEditing": true,
+    // ======= FORMAT & SAVE =======
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    // ===== CURSOR =====
+    "editor.cursorSurroundingLines": 8,
+    "editor.cursorStyle": "line",
+    // ======= FILES =======
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.trimTrailingWhitespace": true,
+    // ======= TERMINAL =======
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.smoothScrolling": true,
+    // ======= EXPLORER =======
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    // ======= WORKBENCH =======
+    "workbench.iconTheme": "mizu",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "SLab Material Theme : Palenight High Contrast",
+    "workbench.editor.enablePreview": false,
+    "workbench.list.smoothScrolling": true,
+    // ======= APPEARANCE =======
+    "window.zoomLevel": -2,
+    "breadcrumbs.enabled": true,
+    // ===== PERFORMANCE =====
+    "editor.fastScrollSensitivity": 5,
+    "editor.scrollBeyondLastLine": false,
+    "editor.folding": true,
+    // ======= BETTER COMMENTS =======
+    "better-comments.highlightPlainText": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#D32F2F",
+            "backgroundColor": "#FFEBEE",
+            "bold": true
+        },
+        {
+            "tag": "?",
+            "color": "#0277BD",
+            "backgroundColor": "#E1F5FE",
+            "bold": true
+        },
+        {
+            "tag": "//",
+            "color": "#757575",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#EF6C00",
+            "backgroundColor": "#FFF3E0",
+            "bold": true
+        },
+        {
+            "tag": "*",
+            "color": "#2E7D32",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "fix",
+            "color": "#C62828",
+            "backgroundColor": "#FFCDD2",
+            "bold": true,
+            "underline": true
+        },
+        {
+            "tag": "important",
+            "color": "#8E24AA",
+            "backgroundColor": "#F3E5F5",
+            "bold": true
+        },
+        {
+            "tag": "note",
+            "color": "#00796B",
+            "backgroundColor": "#E0F2F1",
+            "italic": true
+        },
+        {
+            "tag": "debug",
+            "color": "#00838F",
+            "backgroundColor": "#E0F7FA"
+        },
+        {
+            "tag": "review",
+            "color": "#F9A825",
+            "backgroundColor": "#FFFDE7",
+            "bold": true
+        },
+        {
+            "tag": "optimize",
+            "color": "#5E35B1",
+            "backgroundColor": "#EDE7F6"
+        },
+        {
+            "tag": "deprecated",
+            "color": "#546E7A",
+            "backgroundColor": "#ECEFF1",
+            "strikethrough": true
+        },
+        {
+            "tag": "🔥",
+            "color": "#E64A19",
+            "bold": true
+        },
+        {
+            "tag": "🚀",
+            "color": "#2E7D32",
+            "bold": true
+        },
+        {
+            "tag": "💡",
+            "color": "#FBC02D",
+            "bold": true
+        },
+        {
+            "tag": "❌",
+            "color": "#C62828",
+            "bold": true
+        },
+        {
+            "tag": "✅",
+            "color": "#2E7D32",
+            "bold": true
+        }
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "chat.tips.enabled": false,
+    "claudeCode.preferredLocation": "panel",
+    "terminal.integrated.commandsToSkipShell": [
+        "kilo-code.new.agentManagerOpen",
+        "kilo-code.new.agentManager.showTerminal"
+    ],
+    "editor.minimap.renderCharacters": false,
+    "terminal.integrated.initialHint": false,
+}
